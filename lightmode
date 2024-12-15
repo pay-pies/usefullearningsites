@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Useful Learning Sites</title>
+  <meta charset="utf-8">
+  <style>
+
+  body{
+    background-color: rgb(177, 227, 240);
+  }
+
+  h1{
+    font-family: "courier";
+    color: rgb(255, 255, 255);
+  }
+
+  a{
+    font-family: "Verdana";
+  }
+
+  #title{
+    text-align: center;
+  }
+
+  h2{
+    font-family: "andele mono", monospace;
+    margin-top: 50px;
+    margin-left: 150px;
+    color: rgb( 255, 255, 255);
+  }
+
+  ul{
+    list-style-type: circle;
+  }
+
+  li{
+    font-family: "Verdana";
+    margin-left: 150px;
+    color: rgb(255, 255, 255);
+  }
+
+  #dark{
+    color: rgb(66, 68, 110);
+  }
+
+  #light{
+    color: rgb(255, 255, 255);
+  }
+  h1:hover,h2:hover,li:hover, a:hover, p:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(104, 104, 158);
+  }
+  #dailybean,#duolingo,#bbc,#onenote,#code {
+    margin-top: 30px;
+    margin-left: 150px;
+  }
+  img {
+    margin-top: 30px;
+    margin-left: 30px;
+  }
+  #endmsg{
+    font-family: "Verdana";
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    margin-top: 50px:
+    margin-left: 150px;
+  ]
+  </style>
+
+</head>
+
+<body>
+    <a id="light" href="https://c86bd477-fd9b-415b-868e-18cbed78398e-00-3gwsoxlr6ofo3.picard.replit.dev/">Light Mode ☼<br></a>
+    <a id="dark" href="https://a8d6cd21-f20b-4707-972c-54adb0c6d476-00-a8kocj39978z.spock.replit.dev/">Dark Mode ☾</a>
+
+    <h1 id="title"><u>Useful Learning Sites ✧</u></h1>
+
+    <h2>Languages</h2>
+    <ul>
+        <li>the classic duolingo - <a href="https://www.duolingo.com">duolingo.com</a></li>
+        <li>memrise - <a href="https://www.memrise.com">memrise.com</a></li>
+        <li>pimsleur = 7 day free trial → pay - <a href="https://www.pimsleur.com">pimsleur.com</a></li>
+        <li>babbel - <a href="https://www.uk.babbel.com">uk.babbel.com</a></li>
+        <li>quizlet = getting annoying because of quizlet plus - <a href="https://www.quizlet.com">quizlet.com</a></li>
+    </ul>
+    <img src="https://play-lh.googleusercontent.com/DsyWoouXk7psjF7DCG6MJj_rX9RR9-liQskZXoKvcqQIu_ybUm4F5RntxWh1IZAVSLI" height="100" width="100" id="duolingo">
+    <img src="https://avatars.githubusercontent.com/u/616547?s=280&v=4" height="100" width="100">
+    <h2>General Subject Revision</h2>
+    <ul>
+        <li>the ultimate revision site - <a href="https://www.bbc.co.uk/bitesize/">bbc bitesize</a></li>
+        <li>seneca learning - <a href="https://www.senecalearning.com">senecalearning.com</a></li>
+        <li>khan academy - <a href="https://www.khanacademy.org">khanacademy.org</a></li>
+        <li>brilliant - <a href="https://brilliant.org/home/">brilliant.org</a></li>
+    </ul>
+    <img src="https://standfirst-designweek-production.imgix.net/uploads/2021/10/20105154/bitesize.jpg?fit=crop&crop=faces&q=80&auto=compress,format&w=364&h=404&dpr=2.625" height="100" width="100" id="bbc">
+    <img src="https://www.svgrepo.com/show/353965/khan-academy-icon.svg" height="100" width="100">
+    <img src="https://static.wikia.nocookie.net/logopedia/images/a/a1/Seneca_Learning_icon.png/revision/latest?cb=20200420132600" height="100" width="100">
+    <img src="https://miro.medium.com/v2/resize:fit:3520/1*ACcolLlgfvUAnCUu8-3KRw.png" height="100" width="100">
+    <h2>Note-Taking Apps</h2>
+    <ul>
+        <li>microsoft onenote - <a href="https://www.onenote.com">onenote.com</a></li>
+        <li>notewise (on apple app store & google play) - <a href="https://www.notewise.dev/">notewise.dev</a></li>
+        <li>notion that everyone talks about - <a href="https://www.notion.so">notion.so</a></li>
+    </ul>
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-onenote-logo-icon-download-in-svg-png-gif-file-formats--microsoft-window-office-pack-logos-icons-1194344.png?f=webp&w=512" height="100" width="100" id="onenote">
+    <img src="https://sm.pcmag.com/pcmag_me/review/n/notion/notion_5egj.png" height="100 width=100">
+    <h2>Mental Health Apps</h2>
+    <ul>
+        <li>dailybean (google play) - <a href="https://play.google.com/store/apps/details?id=com.bluesignum.bluediary&hl=en_GB">link</a></li>
+        <li>dailybean (apple) - <a href= "https://apps.apple.com/us/app/dailybean-simplest-journal/id1553223828">link</a></li>
+        <li>moodee (google play) - <a href="https://play.google.com/store/apps/details?id=com.bluesignum.little_lighthouse&hl=en_GB" >link</a></li>
+        <li>moodee (apple) - <a href="https://apps.apple.com/lv/app/moodee-to-dos-for-your-mood/id6445954796">link</a></li>
+        <li>betterhelp (there's ads for it everywhere) - <a href="https://www.betterhelp.com">betterhelp.com</a></li>
+        <li>headspace - <a href="https://www.headspace.com">headspace.com</a></li>
+        <li>move mood - <a href="https://movemood.stem4.org.uk/">movemood.stem4.org.uk</a></li>
+        <li>mood fit - <a href="https://www.getmoodfit.com/">getmoodfit.com</a></li>
+    </ul>
+
+    <img src="https://play-lh.googleusercontent.com/RWhT604etgP-d6EeIahXskrKsPgqv-p8yrDFm55NPm6cMljnwI_YPoH7EWknO7MSl3w=w480-h960-rw" height="100" width="100" id="dailybean">
+    <img src="https://play-lh.googleusercontent.com/oiXnOz-OtCDyzITwjYEX_M1-5vf6IPOa-G9e7ux7NZvqDE95BHj8GZMGqNBGFKDWXmI=w480-h960-rw" height="100" width="100">
+    <h2>Coding Sites</h2>
+    <ul>
+        <li>codecademy - <a href="https://www.codecademy.com/learn">codecademy.com</a></li>
+        <li>codewars - <a href="https://www.codewars.com/">codewars.com</a></li>
+        <li>repl.it (annoying now can only make 3 repls without a plan) - <a href="https://www.replit.com">replit.com</a></li>
+        <li>w3schools - <a href="https://www.w3schools.com">w3schools.com</a></li>
+    </ul>
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--f0ae0y3b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://curricular.dev/assets/images/platforms/codecademy.png" height="100" width="100" id="code">
+    <img src="https://cdn-1.webcatalog.io/catalog/w3schools/w3schools-icon-unplated.png?v=1714776411512" height="100" width="100">
+    <h2>My Favourites</h2>
+    <ul>
+        <li>onenote for sure!</li>
+        <li>moodee</li>
+        <li>dailybean - its cute!</li>
+    </ul>
+    <p id="endmsg">I hope you found these helpful :).</p>
+</body>
+
+</html>
